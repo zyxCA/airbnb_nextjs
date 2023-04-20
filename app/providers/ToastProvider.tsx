@@ -4,4 +4,5 @@ const ToasterProvider = () => {
     return (
         <Toaster/>
     )
-}
+} 
+export default ToasterProvider
